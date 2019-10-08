@@ -1,0 +1,11 @@
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\bin\Debug\netcoreapp2.1\Area of a Triangle.deps.json
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\bin\Debug\netcoreapp2.1\Area of a Triangle.runtimeconfig.json
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\bin\Debug\netcoreapp2.1\Area of a Triangle.runtimeconfig.dev.json
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\bin\Debug\netcoreapp2.1\Area of a Triangle.dll
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\bin\Debug\netcoreapp2.1\Area of a Triangle.pdb
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\obj\Debug\netcoreapp2.1\Area of a Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\obj\Debug\netcoreapp2.1\Area of a Triangle.AssemblyInfoInputs.cache
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\obj\Debug\netcoreapp2.1\Area of a Triangle.AssemblyInfo.cs
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\obj\Debug\netcoreapp2.1\Area of a Triangle.dll
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\obj\Debug\netcoreapp2.1\Area of a Triangle.pdb
+C:\Users\ludmilla.demiranda\source\repos\Soma\Area of a Triangle\obj\Debug\netcoreapp2.1\Area of a Triangle.csprojAssemblyReference.cache

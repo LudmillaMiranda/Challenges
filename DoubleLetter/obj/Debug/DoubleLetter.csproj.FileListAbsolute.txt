@@ -1,0 +1,6 @@
+C:\Users\ludmilla.demiranda\source\repos\Soma\DoubleLetter\bin\Debug\DoubleLetter.exe.config
+C:\Users\ludmilla.demiranda\source\repos\Soma\DoubleLetter\bin\Debug\DoubleLetter.exe
+C:\Users\ludmilla.demiranda\source\repos\Soma\DoubleLetter\bin\Debug\DoubleLetter.pdb
+C:\Users\ludmilla.demiranda\source\repos\Soma\DoubleLetter\obj\Debug\DoubleLetter.csproj.CoreCompileInputs.cache
+C:\Users\ludmilla.demiranda\source\repos\Soma\DoubleLetter\obj\Debug\DoubleLetter.exe
+C:\Users\ludmilla.demiranda\source\repos\Soma\DoubleLetter\obj\Debug\DoubleLetter.pdb

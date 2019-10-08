@@ -1,0 +1,7 @@
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\obj\Debug\FooBoo.csprojAssemblyReference.cache
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\obj\Debug\FooBoo.csproj.CoreCompileInputs.cache
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\bin\Debug\FooBoo.exe.config
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\bin\Debug\FooBoo.exe
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\bin\Debug\FooBoo.pdb
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\obj\Debug\FooBoo.exe
+C:\Users\ludmilla.demiranda\source\repos\Soma\FooBoo\obj\Debug\FooBoo.pdb
